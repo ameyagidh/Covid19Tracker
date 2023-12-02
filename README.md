@@ -1,6 +1,4 @@
 # Covid19Tracker
-
-# Covid19-Tracking-iOS-App
 A Swift-Based Real-time COVID-19 Statistic iOS Application
 
 ## Demo
