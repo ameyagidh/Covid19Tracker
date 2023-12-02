@@ -3,9 +3,9 @@ A Swift-Based Real-time COVID-19 Statistic iOS Application
 
 ## Demo
 <p align="center">
-  <img src="image/home.png" width="30%" height="30%">
-  <img src="image/map.png" width="30%" height="30%">
-  <img src="image/detail.png" width="30%" height="30%">
+![detail](https://github.com/ameyagidh/Covid19Tracker/assets/65457905/899ca23c-dd81-4ae7-83d2-64d9841ff688)
+![home](https://github.com/ameyagidh/Covid19Tracker/assets/65457905/06f5d840-b184-4312-a81b-d98cd777b70f)
+![map](https://github.com/ameyagidh/Covid19Tracker/assets/65457905/7c71530f-89c9-43a6-bf64-8e2411bb71e9)
 </p>
 
 ## Features
