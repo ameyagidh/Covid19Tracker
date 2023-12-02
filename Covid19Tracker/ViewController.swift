@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var myVariable: Int = 42
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
